@@ -1,0 +1,6 @@
+framework module Pods_IDC {
+  umbrella header "Pods-IDC-umbrella.h"
+
+  export *
+  module * { export * }
+}
